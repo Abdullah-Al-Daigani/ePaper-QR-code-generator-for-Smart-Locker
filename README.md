@@ -5,5 +5,11 @@
 ![alt text](Pictures/IMG_20230715_172858.jpg "Front picture of the board with QR code and Information displayed")
 ![alt text](Pictures/IMG_20230715_172932.jpg "Back picture of the board")
 
-<img align="center" src="Pictures/IMG_20230715_172858.jpg" width="300" height="300" >
-<img align="center" src="Pictures/IMG_20230715_172932.jpg" width="300" height="300" >
+<p align="center">
+<img align="center" src="Pictures/IMG_20230715_172858.jpg" width="300" height="400" >
+  </p>
+"Front picture of the board with QR code and Information displayed"
+<p align="center">
+<img align="center" src="Pictures/IMG_20230715_172932.jpg" width="300" height="400" >
+</p>
+"Back picture of the board"
