@@ -1,7 +1,8 @@
-# ePaper-QR-code-generator-for-Smart-Locker
+# QR-code-generation-in-ePaper-esp32-board-for-Smart-Locker
 
-## smaller title
+## using an esp32 board equipped with an epaper display to show a QR code and information for a smart locker(Parcel box)
 
-![alt text](Pictures/sample_0.jpg "image title")
+![alt text](Pictures/IMG_20230715_172858.jpg "Front picture of the board with QR code and Information displayed")
+![alt text](Pictures/IMG_20230715_172932.jpg "Back picture of the board")
 
-alt text seems to be the name that appears in case the picture isn't loaded
+
