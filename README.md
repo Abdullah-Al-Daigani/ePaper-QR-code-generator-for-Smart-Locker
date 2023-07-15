@@ -5,8 +5,10 @@
 
 <p align="center">
 <img align="center" src="Pictures/IMG_20230715_172858.jpg" width="300" height="400" >
+  
 "Front picture of the board with QR code and Information displayed"
 
 <img align="center" src="Pictures/IMG_20230715_172932.jpg" width="300" height="400" >
+
 "Back picture of the board"
 </p>
