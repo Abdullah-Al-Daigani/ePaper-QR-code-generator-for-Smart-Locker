@@ -31,7 +31,7 @@ Also it can be upgraded if needed to have a backup lithium battery that charges 
 
 
 
-The platformio VSCode extension was used to program the device, and The library used to interface with the device is [Xinyuan-LilyGO](https://github.com/Xinyuan-LilyGO/LilyGo-T5-Epaper-Series) which was recommended by The board manufacturer to use.
+The platformio VSCode extension was used to program the device, and the library used to interface with the device is [Xinyuan-LilyGO](https://github.com/Xinyuan-LilyGO/LilyGo-T5-Epaper-Series) which was recommended by The board manufacturer to use.
 As for the QR generation code, it was taken from [ricmoo](https://github.com/ricmoo/QRCode), where this code generates a QR from an input string.
 
 
