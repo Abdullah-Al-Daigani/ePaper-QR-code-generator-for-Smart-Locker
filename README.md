@@ -18,7 +18,7 @@
 
 
 
-This project was made for smart delivery lockers(Parcel boxes) which have a unique QR code sticker that is used to ensure that the person opening the locker to get their order is actually in front of the locker, people can take pictures of these QR codes and exploit them to steal the orders or manipulate people to go to other locations. and changing those stickers requires a lot of time and manpower, hence the low power and low cost ePaper display esp32 will make a suitable solution for all that.
+This project was made for smart delivery lockers(Parcel boxes) which have a unique QR code sticker that is used to ensure that the person opening the locker to get their order is actually in front of the locker, people can take pictures of these QR codes and exploit them in many different ways. and changing those stickers requires a lot of time and manpower, hence the low power and low cost ePaper display esp32 will make a suitable solution for all that.
 
 
 
